@@ -23,6 +23,6 @@ int main()
     atlag /= N_ELEMENTS;
     std::cout << "Atlag: " << atlag << std::endl;
     delete[] b;
-    std::cout << "faszom ki van ezzel a kibaszott kurva tantárggyal, hogy az itsne verné belé a rücskös faszát, most bontok egy sört";
+    std::cout << "ih niko mananiko mana ko erej";
     return 0;
 }
